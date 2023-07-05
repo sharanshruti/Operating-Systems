@@ -1,0 +1,1 @@
+frameNumber = read_from_store(pageNumber)
